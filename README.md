@@ -119,20 +119,6 @@ It reflects how business requirements can be translated into resilient technical
 
 ---
 
-## 📂 Project Structure
-
-```bash
-├── data/
-├── notebooks/
-├── pipeline/
-├── validation/
-├── output/
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## 🎯 Engineering Highlights
 
 * Declarative data validation
@@ -142,14 +128,4 @@ It reflects how business requirements can be translated into resilient technical
 * Scalable and modular architecture
 * High-integrity analytical workflows
 
----
 
-## 🤝 Contributions
-
-Contributions, improvements, and suggestions are welcome. Feel free to fork the repository and submit a pull request.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
